@@ -9,4 +9,4 @@ youtube.com/channel/UCiRU8yhg2-WAcOK_QdlahRw?sub_confirmation=1
 
 ### 👨‍💻 Languages I'm Familiar With
 
-[<img align="left" alt="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
+[<img align="left" alt="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"
