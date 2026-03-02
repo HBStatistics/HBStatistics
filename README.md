@@ -1,4 +1,4 @@
-👉📢 Subscribe to my YouTube Channel: 
+Subscribe to HB Statistics today: 
 youtube.com/channel/UCiRU8yhg2-WAcOK_QdlahRw?sub_confirmation=1
 
 ## GitHub Stats
